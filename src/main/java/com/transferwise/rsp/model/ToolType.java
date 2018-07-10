@@ -1,4 +1,4 @@
-package com.transferwise.rsp.service;
+package com.transferwise.rsp.model;
 
 public enum ToolType {
     SCISSORS,

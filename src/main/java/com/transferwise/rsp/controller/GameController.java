@@ -1,8 +1,8 @@
 package com.transferwise.rsp.controller;
 
 import com.transferwise.rsp.service.GameService;
-import com.transferwise.rsp.service.Player;
-import com.transferwise.rsp.service.ToolType;
+import com.transferwise.rsp.model.Player;
+import com.transferwise.rsp.model.ToolType;
 import org.hibernate.validator.constraints.NotEmpty;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
