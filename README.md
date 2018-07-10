@@ -1,4 +1,4 @@
-# Rock-Scissors-Paper game
+# Rock-Scissors-Paper Game
 
 This is a sample Java / Maven / Spring Boot "Microservice" application with two endpoints (GET), one for registry players and the other one to trigger the game with those added players.
 
