@@ -5,8 +5,8 @@
 *.log
 
 # IDE files
-.iml
-*.idea
+*.iml
+.idea/
 
 # BlueJ files
 *.ctxt
