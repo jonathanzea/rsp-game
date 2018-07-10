@@ -14,7 +14,7 @@ In the previous step the compilation did generate a JAR file. This application i
 
 So you can run it using the command (trhough the console in the path where the JAR is);
 
- ```java -jar rsp-game-1``` command.
+ ```java -jar rsp-game-1```
  
  On the console log you should see something like this below;
 ```
