@@ -1,6 +1,6 @@
-# Rock-Scissors-Paper game "Microservice" (Spring Boot)
+# Rock-Scissors-Paper game
 
-This is a sample Java / Maven / Spring Boot application with to endpoints (GET), one for registry players and the other one to trigger the game with those players.
+This is a sample Java / Maven / Spring Boot "Microservice" application with two endpoints (GET), one for registry players and the other one to trigger the game with those added players.
 
 ## How to compile
 * Clone this repository 
@@ -23,8 +23,6 @@ So you can run it using the command (trhough the console in the path where the J
 ```
 
 This will start the application in port 8080
-
-
 
 ## About the Service
 
